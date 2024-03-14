@@ -1,0 +1,31 @@
+.container{
+   width: 40%;
+   margin: 0 auto;
+}
+
+img{
+   width: 100%;
+}
+
+p{
+   margin: 0;
+}
+
+.img_holder{
+   background-color: rgb(72, 151, 194);
+   border-radius: 5px 5px 0 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.img_title{
+   background-color: rgba(173, 173, 173, 0.397);
+   padding: 5px;
+   font-size: 10px;
+   display: flex;
+   justify-content: center;
+   color: rgb(68, 68, 68);
+   border-radius: 0 0 5px 5px;
+   margin-bottom: 20px;
+}
